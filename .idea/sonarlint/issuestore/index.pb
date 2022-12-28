@@ -1,0 +1,19 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+i
+9app/src/main/java/com/example/lesson_4/model/NoteModel.kt,d\8\d8e4ef68ad3a7e76f6c1e592a4bc966c1a2d1903
+k
+;app/src/main/java/com/example/lesson_4/base/BaseFragment.kt,7\e\7ee1e72fed0d448a4a30e046a68eb9717eb82e65
+r
+Bapp/src/main/java/com/example/lesson_4/ui/activity/MainActivity.kt,8\f\8f930db9008071a9d47b431a8ce514f41abde129
+o
+?app/src/main/java/com/example/lesson_4/ui/board/BoardAdapter.kt,a\0\a01e1b12896f131b397b6f2a2a46213c5ac86ab3
+r
+Bapp/src/main/java/com/example/lesson_4/ui/board/OnBoardFragment.kt,8\a\8a378313dd5f9f1c92098da35f80db49760953f4
+r
+Bapp/src/main/java/com/example/lesson_4/ui/fragment/NoteFragment.kt,4\3\434bce2b989f6685398e2b8184643954ce62252d
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+u
+Eapp/src/main/java/com/example/lesson_4/ui/fragment/AddNoteFragment.kt,a\b\abec2dbbdf171891573afe759146150c5bf4f35f
